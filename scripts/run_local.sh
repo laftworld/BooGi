@@ -6,11 +6,11 @@ link_data() {
   echo "Linking $1"
   [[ -n "$2" ]] && subpath=$2 || subpath=""
   [[ -n "$3" ]] && optional=$3 || optional=false
-  if [[ -d "/develop/$1" ]]; then
+  if [[ -d "/wehong/$1" ]]; then
     echo "skip"
-    ln -sfn "/develop/$1/*" "/app/$subpath"
-  elif [[ -f "/develop/$1" ]]; then
-    ln -sfn "/develop/$1" "/app/$subpath"
+    ln -sfn "/wehong/$1/*" "/app/$subpath"
+  elif [[ -f "/wehong/$1" ]]; then
+    ln -sfn "/wehong/$1" "/app/$subpath"
   elif [ "$optional" = true ]; then
       echo "Optional path $1 does not exist"
   else

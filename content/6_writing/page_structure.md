@@ -1,9 +1,9 @@
 ---
 title: 'Page structure'
-order: 2
+order: 7
 ---
 
-Check BooGi page layout and how different components relate to each other 
+Check BooGi page layout and how different components relate to each other
 and where they are placed.
 
 ### General page structure

@@ -1,8 +1,8 @@
 ---
 metadata:
-  name: BooGi
-  short_name: BooGi
-  description: BooGi - awesome GitBook-like documentation generator using Gatsby
+  name: 홍원의 블로그
+  short_name: wehong
+  description: wehong's blog
   language: en
   pathPrefix: "/"
   siteImage:
@@ -14,15 +14,15 @@ header:
   logoLink: "/"
   helpUrl: ""
   links:
-    - text: BooGi
-      link: https://github.com/filipowm/boogi
-      external: true
-    - text: Gatsby
-      link: https://www.gatsbyjs.org
-      external: true
-    - text: Docs
-      link: "/"
-      external: false
+#    - text: Nota. Inc
+#      link: https://nota.ai/
+#      external: true
+#    - text: DPlus
+#      link: http://www.dplus.company/
+#      external: true
+#    - text: AC2
+#      link: "http://www.ac2.kr/"
+#      external: true
 sidebar:
   enabled: true
   # forcedNavOrder:
@@ -49,28 +49,33 @@ sidebar:
     - order: 6
       path: "/writing"
       title: ":rocket: 글쓰기"
-    - order: 7
-      path: "/configuration"
-      title: ":wrench: Configuration"
-    - order: 8
-      path: "/editing"
-      title: ":writing_hand: Editing Content"
-    - order: 9
-      path: "/deployment"
-      title: ":rocket: Deployment"
-    - order: 10
-      path: "/developing"
-      title: ":computer: Developing"
+#    - order: 7
+#      path: "/configuration"
+#      title: ":wrench: Configuration"
+#    - order: 8
+#      path: "/editing"
+#      title: ":writing_hand: Editing Content"
+#    - order: 9
+#      path: "/deployment"
+#      title: ":rocket: Deployment"
+#    - order: 10
+#      path: "/developing"
+#      title: ":computer: Developing"
   links:
-    - text: BooGi
-      link: https://github.com/filipowm/boogi
-    - text: React
-      link: https://reactjs.org
+    - text: Nota. Inc
+      link: https://nota.ai/
+      external: true
+    - text: DPlus
+      link: http://www.dplus.company/
+      external: true
+    - text: AC2
+      link: "http://www.ac2.kr/"
+      external: true
   ignoreIndex: false
-  poweredBy:
-    trademark: "/assets/gatsby.png"
-    name: GatsbyJS
-    link: https://www.gatsbyjs.org
+#  poweredBy:
+#    trademark: "/assets/gatsby.png"
+#    name: GatsbyJS
+#    link: https://www.gatsbyjs.org
 pwa:
   enabled: true
   manifest:
@@ -79,6 +84,7 @@ pwa:
     icon: "/assets/favicon.png"
 
 social:
+  facebook: https://www.facebook.com/woneui.hong
   github: https://github.com/filipowm/boogi
   linkedin: https://www.linkedin.com/in/mateusz-filipowicz-437b4768/
   twitter: twitter url
@@ -86,9 +92,9 @@ social:
 features:
   darkMode:
     enabled: true
-    default: false
+    default: true
   editOnRepo:
-    location: https://github.com/filipowm/boogi
+    location: https://github.com/laftworld/BooGi
     type: github
     editable: true
   mermaid:
