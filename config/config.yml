@@ -32,18 +32,33 @@ sidebar:
   # expanded:
   groups:
     - order: 1
-      path: "/gettingstarted"
-      title: ":rocket: Getting Started"
+      path: "/1_retrospective"
+      title: ":rocket: 회고 retrospective"
     - order: 2
+      path: "/2_onepageml"
+      title: ":robot_face: 한페이지 머신러닝"
+    - order: 3
+      path: "/3_onepagehl"
+      title: ":writing_hand: 그림일기"
+    - order: 4
+      path: "/4_agilecoach"
+      title: ":rocket: Agile Coach"
+    - order: 5
+      path: "/5_developing"
+      title: ":computer: 개발"
+    - order: 6
+      path: "/writing"
+      title: ":rocket: 글쓰기"
+    - order: 7
       path: "/configuration"
       title: ":wrench: Configuration"
-    - order: 3
+    - order: 8
       path: "/editing"
       title: ":writing_hand: Editing Content"
-    - order: 4
+    - order: 9
       path: "/deployment"
       title: ":rocket: Deployment"
-    - order: 5
+    - order: 10
       path: "/developing"
       title: ":computer: Developing"
   links:
@@ -70,10 +85,10 @@ social:
 
 features:
   darkMode:
-    enabled: true  
+    enabled: true
     default: false
   editOnRepo:
-    location: https://github.com/filipowm/boogi 
+    location: https://github.com/filipowm/boogi
     type: github
     editable: true
   mermaid:
@@ -129,7 +144,7 @@ features:
   toc:
     show: true
     depth: 4
-  fullScreenMode: 
+  fullScreenMode:
     enabled: true
     hideHeader: true
     hideToc: true
