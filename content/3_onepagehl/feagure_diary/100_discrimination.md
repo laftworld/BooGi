@@ -1,6 +1,6 @@
 ---
 title: '인종차별 하는 공부'
-order: 0
+order: 100
 ---
 
 # 인종차별 하는 공부
@@ -8,7 +8,7 @@ order: 0
 <!---
 ![인종차별 하는 공부](../../images/onepagehl/image(10).png)
 -->
-<ImageCard src="https://github.com/laftworld/BooGi/blob/wehong/content/images/onepagehl/Paper.one-page-HL.1.png?raw=true">나는 보라색 지렁이인가?</ImageCard>
+<ImageCard src="https://github.com/laftworld/BooGi/blob/wehong/content/images/onepagehl/Paper.one-page-HL.1.png?raw=true">인종차별</ImageCard>
 
 흑인의 피부를 보고 검다고 하면 사실을 말했음에도 불구하고 지탄을 받는다.
 

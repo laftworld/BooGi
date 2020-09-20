@@ -1,4 +1,12 @@
 ---
+ORS:
+  name: ORS
+  long_name: Outcome Rating Scale
+  description: Use before the session begins
+SRS:
+  name: SRS
+  long_name: Session Rating Scale
+  description: Use before the session ends
 markdown:
   name: Markdown
   description: Very simple and lightweight markup language with plain-text-formatting
