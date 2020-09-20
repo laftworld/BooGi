@@ -96,7 +96,7 @@ features:
   editOnRepo:
     location: https://github.com/laftworld/BooGi
     type: github
-    editable: true
+    editable: false
   mermaid:
     language: "mermaid"
     theme: "dark"

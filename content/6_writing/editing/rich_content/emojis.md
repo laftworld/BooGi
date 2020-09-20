@@ -1532,7 +1532,7 @@ Below is the list of all available emojis. You can also find them
 :m: `:m:` <br/>
 :black_small_square: `:black_small_square:` <br/>
 :white_small_square: `:white_small_square:` <br/>
-:arrow_forward: `:arrow_forward:` <br/>
+→ `→` <br/>
 :arrow_backward: `:arrow_backward:` <br/>
 :white_medium_square: `:white_medium_square:` <br/>
 :black_medium_square: `:black_medium_square:` <br/>
