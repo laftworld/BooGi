@@ -47,11 +47,11 @@ sidebar:
       path: "/5_developing"
       title: ":computer: 개발"
     - order: 6
-      path: "/writing"
+      path: "/6_writing"
       title: ":rocket: 글쓰기"
-#    - order: 7
-#      path: "/configuration"
-#      title: ":wrench: Configuration"
+    - order: 7
+      path: "/7_list"
+      title: ":wrench: List"
 #    - order: 8
 #      path: "/editing"
 #      title: ":writing_hand: Editing Content"

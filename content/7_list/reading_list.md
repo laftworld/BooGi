@@ -1,11 +1,19 @@
 ---
-title: 'Page structure'
-order: 7
+title: "Reading list"
+order: 0
 ---
+
+
+- 마음을 쏘다, 활
+
+
+
 
 Check BooGi page layout and how different components relate to each other
 and where they are placed.
 
+
+<!---
 ### General page structure
 
 ![](../images/structure_general.png)
@@ -35,3 +43,5 @@ and where they are placed.
 ![](../images/structure_search.png#)
 
 ---
+
+-->

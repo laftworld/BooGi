@@ -144,6 +144,17 @@ const plugins = [
       stripQueryString: true,
     },
   },
+  {
+  resolve: `gatsby-transformer-remark`,
+    options: {
+      plugins: [
+        {
+          resolve: `gatsby-remark-figure-caption`,
+          options: {figureClassName: 'md-figure'},
+        },
+      ],
+    },
+  },
 ];
 
 if (config.features.pageProgress && config.features.pageProgress.enabled) {
