@@ -29,3 +29,7 @@ order: 0
 # Paper
 ---
 - []()
+
+# 인용
+---
+- [선 (禪)에 대한 글 모음](https://docs.google.com/document/d/1PmXtxKWsQRjZCjzP82vxqqlS3fFy-9HgEtFHAsrjRPo/edit?usp=sharing)
