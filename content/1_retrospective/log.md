@@ -11,7 +11,7 @@ order: 10
 - 20200525 [나 분석중 2nd round](https://www.notion.so/notaai/2nd-round-1c513accf1d8415282e82bcd1a6e6d58)
 - 20200226 [자기소개문](https://www.notion.so/notaai/20200226-40e295099c364b5e8f5038be5710af77)
 - 20200225 [악어새](https://www.notion.so/notaai/20200225-bb4294879ab946be90434f9d182ac1b4)
-- (2019. 06. 12 - 2020. 07. 26) [광인대전](https://learningengineer.tistory.com/61?category=798077)
+- 20190612 - 20200726 [광인대전](https://learningengineer.tistory.com/61?category=798077)
 - 20190909 [본업](https://learning-engineer.tistory.com/17)
 - 20190816 [선과 머신러닝 모델 관리술](https://learning-engineer.tistory.com/13)
 - 20190307 [LaTeX로 익히는 생산, 협업, 공유 프레임워크](https://docs.google.com/document/d/1DOE_RMnFgIPr3oDJ2sKWyvhckis3L3e5fNGz4I6_auw/edit?usp=sharing)
