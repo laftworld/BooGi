@@ -1,5 +1,5 @@
 ---
-title: "회고"
+title: "중간 save"
 order: 0
 ---
 
@@ -11,9 +11,12 @@ order: 0
 
 - 미래는 아무도 모른다. 미래를 아는 것처럼 계획하고 성취하거나 실망 하기 보다는 과거를 살펴보고 현재를 짚어보면서 내가 아는 것과 모르는 것을 구분하자.
 
-- _ORS_ 와 _SRS_ 가 현재를 짚는데 도움이 된다.
+- _ORS_ 와 _SRS_ 기록이 나의 현재를 짚고 tracking 하는데 도움이 된다.
 
+- [ORS 하기](https://forms.gle/aHyCqzpX2zdkST1v5)
 
+- [SRS 하기](https://forms.gle/d8KJ8nWFBKRPtqLJ7)
 
+- [ORS / SRS 결과 보기](https://docs.google.com/spreadsheets/d/16K2k5BFjorkeQjp5iBtD5IOnC1HU21_odkgx4H6JIWI/edit?usp=sharing)
 #### Footnote
 [^1]: 선과 모터사이클 관리술 (p.)

@@ -33,7 +33,7 @@ sidebar:
   groups:
     - order: 1
       path: "/1_retrospective"
-      title: ":rocket: 회고 retrospective"
+      title: ":rocket: 중간 save"
     - order: 2
       path: "/2_onepageml"
       title: ":robot_face: 한페이지 머신러닝"
@@ -46,9 +46,6 @@ sidebar:
     - order: 5
       path: "/5_developing"
       title: ":computer: 개발"
-    - order: 6
-      path: "/6_writing"
-      title: ":rocket: 글쓰기"
     - order: 7
       path: "/7_list"
       title: ":wrench: List"
