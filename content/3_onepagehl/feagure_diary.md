@@ -14,7 +14,7 @@ order: 504
 ### 정적인 질, 동적인 질
 <Layout>
 
-<ImageCard src="https://github.com/laftworld/BooGi/blob/wehong/content/images/onepagehl/quality.png?raw=true"></ImageCard>
+<ImageCard src="https://github.com/laftworld/BooGi/blob/wehong/content/images/onepagehl/quality-1.png?raw=true"></ImageCard>
 
 <div>
 
